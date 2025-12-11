@@ -1,0 +1,7 @@
+import LoginPage from "../auth/signin/page";
+
+export default function SignIn() {
+  return (
+    <LoginPage />
+  )
+}
